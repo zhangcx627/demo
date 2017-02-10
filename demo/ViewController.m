@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     UILabel *firstCommit = [[UILabel alloc]init];
     firstCommit.text = @"firstCommit";
+    firstCommit.text = @"this is XXX branch";
     UILabel *secondCommit = [[UILabel alloc]init];
     secondCommit.text = @"master branch";
 }
