@@ -20,6 +20,9 @@
 
 
     NSString *str = @"Master brancn";
+
+    NSString * xxx = @"i'm xxx branch";
+    
     return YES;
 }
 
