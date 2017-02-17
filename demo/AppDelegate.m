@@ -23,7 +23,6 @@
 
     NSString * xxx = @"i'm xxx branch";
 
-    NSString * xxx1 = @"new xxx";
     
     return YES;
 }
