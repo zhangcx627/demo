@@ -17,8 +17,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    NSString *str1 = @"XXX branch";
-    
+
+
+    NSString *str = @"Master brancn";
     return YES;
 }
 
