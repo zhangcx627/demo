@@ -1,0 +1,16 @@
+PODS:
+  - ZCXDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZCXDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZCXDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZCXDemo: 9ad4fb137ea4ba9d710248ebeba1f2de992d7543
+
+PODFILE CHECKSUM: 1629ab5696e33610a3d7dd9a6f9c9e22a027ba97
+
+COCOAPODS: 1.5.3
