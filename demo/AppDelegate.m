@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
 
 
-    NSString *str = @"Master branch";
+    NSString *str = @"Master branch1";
 
     NSString * xxx = @"i'm xxx branch";
 
