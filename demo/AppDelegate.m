@@ -21,7 +21,7 @@
 
     NSString *str = @"Master branch1";
 
-    NSString * xxx = @"i'm xxx branch";
+    NSString * xxx = @"i'm xxx branch12";
 
     
     return YES;
